@@ -1,0 +1,5 @@
+para centrar todo el body se usa lo siguiente
+margin-right:auto;
+margin-left:auto;
+de esa manera todo queda en el centro bien posicionado
+margin: 0 auto;
